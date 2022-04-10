@@ -22,4 +22,3 @@ for i in range(N):
     # 아니면 'NE' 출력
     else:
         print('NE')
-
