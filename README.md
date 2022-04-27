@@ -7,6 +7,12 @@
 ```
 coding-test/
 │
+├── 📂 jussuit_notes_ps
+│	├── 📝 README.md
+│   ├── 📝 header_template.md
+│   ├── 🐍 utils.py
+│	└── 🐍 ps_template.py
+│
 ├── 📂 Dynamic Programming
 │	├── 📝 내용 정리.md
 │	└── 📂 problem
