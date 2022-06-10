@@ -1,4 +1,4 @@
-## 문제 : 백준 2606번 - Problem Title
+## 문제 : 백준 2606번 - 바이러스
 ## 링크 : https://www.acmicpc.net/problem/2606
 
 ## 풀이
@@ -11,6 +11,7 @@ from collections import deque
 import sys
 input = sys.stdin.readline
 
+# Define BFS
 def bfs(start):
     num = 0
     queue = deque([start])
@@ -37,5 +38,4 @@ for _ in range(M):
     graph[right].append(left)
 
 num = bfs(1)
-
 print(num)
