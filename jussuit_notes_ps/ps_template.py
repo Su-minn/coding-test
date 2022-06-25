@@ -9,16 +9,20 @@ from jussuit_notes_ps.utils import *
 ### - 시간 제한 :
 ### - 메모리 제한 :
 ### - 가능한 시간 복잡도 : ex) O(NlogN)
+### - Key Points
+###   : 1)
+###   : 2)
+
 
 @time_check
 def solution(*args, **kwargs):
-    '''
+    """
         algorithm
-    '''
+    """
 
     answer = True
-
     return answer
+
 
 # Input Test
 solution()
